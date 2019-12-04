@@ -1,0 +1,6 @@
+D:\Sourse\GitHub\Classes\Classes\Task5\bin\Debug\Task5.exe.config
+D:\Sourse\GitHub\Classes\Classes\Task5\bin\Debug\Task5.exe
+D:\Sourse\GitHub\Classes\Classes\Task5\bin\Debug\Task5.pdb
+D:\Sourse\GitHub\Classes\Classes\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+D:\Sourse\GitHub\Classes\Classes\Task5\obj\Debug\Task5.exe
+D:\Sourse\GitHub\Classes\Classes\Task5\obj\Debug\Task5.pdb
